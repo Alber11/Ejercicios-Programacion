@@ -1,6 +1,5 @@
 package com.gmail.albermargar9.Tema6.Ejercicios;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Ejercicio12 {
