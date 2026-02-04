@@ -1,4 +1,4 @@
-package com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren;
+package com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Personal;
 
 import java.util.Arrays;
 

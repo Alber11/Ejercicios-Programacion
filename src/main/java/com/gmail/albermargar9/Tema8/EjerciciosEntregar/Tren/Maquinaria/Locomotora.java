@@ -1,4 +1,6 @@
-package com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren;
+package com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Maquinaria;
+
+import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Personal.Mecanico;
 
 public class Locomotora {
     private String matricula;
