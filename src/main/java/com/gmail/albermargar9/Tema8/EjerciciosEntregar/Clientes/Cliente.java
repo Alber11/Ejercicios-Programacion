@@ -1,4 +1,4 @@
-package com.gmail.albermargar9.Tema8.EjerciciosEntregar;
+package com.gmail.albermargar9.Tema8.EjerciciosEntregar.Clientes;
 
 public class Cliente {
 
