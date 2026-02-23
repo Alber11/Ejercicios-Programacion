@@ -1,4 +1,4 @@
-package com.gmail.albermargar9.Tema7.EjerciciosEntregar;
+package com.gmail.albermargar9.Tema7_CadenasCaracteres.EjerciciosEntregar;
 
 import java.util.Scanner;
 
