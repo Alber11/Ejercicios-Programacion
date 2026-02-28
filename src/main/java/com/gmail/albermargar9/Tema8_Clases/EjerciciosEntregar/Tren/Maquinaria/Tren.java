@@ -1,6 +1,6 @@
-package com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Maquinaria;
+package com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Maquinaria;
 
-import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Personal.Maquinista;
+import com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Personal.Maquinista;
 
 public class Tren {
     private Locomotora locomotora;
