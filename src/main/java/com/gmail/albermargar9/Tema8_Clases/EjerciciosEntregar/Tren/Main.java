@@ -1,11 +1,11 @@
-package com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren;
+package com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren;
 
-import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Maquinaria.Locomotora;
-import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Maquinaria.Tren;
-import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Maquinaria.Vagon;
-import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Personal.JefeEstacion;
-import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Personal.Maquinista;
-import com.gmail.albermargar9.Tema8.EjerciciosEntregar.Tren.Personal.Mecanico;
+import com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Maquinaria.Locomotora;
+import com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Maquinaria.Tren;
+import com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Maquinaria.Vagon;
+import com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Personal.JefeEstacion;
+import com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Personal.Maquinista;
+import com.gmail.albermargar9.Tema8_Clases.EjerciciosEntregar.Tren.Personal.Mecanico;
 
 import java.time.LocalDate;
 
